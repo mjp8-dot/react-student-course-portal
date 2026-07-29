@@ -33,14 +33,6 @@ From signing up and completing your student profile to registering courses, mana
 
 ---
 
-## 📸 Preview
-
-> *Coming Soon...*
-
-(Add a few screenshots or a demo GIF here later.)
-
----
-
 ## 🚀 Getting Started
 
 Clone the repository
