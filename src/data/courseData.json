@@ -1,0 +1,134 @@
+[
+    {
+        "courseCode": "CSE201",
+        "courseName": "Data Structures & Algorithms",
+        "faculty": "Dr. Ananya Sharma",
+        "credits": 4,
+        "semester": 3,
+        "department": "Computer Science",
+        "maxSeats": 60,
+        "availableSeats": 42,
+        "schedule": [
+            {
+                "day": "Monday",
+                "startTime": "10:00",
+                "endTime": "11:30"
+            },
+            {
+                "day": "Wednesday",
+                "startTime": "10:00",
+                "endTime": "11:30"
+            }
+        ]
+    },
+    {
+        "courseCode": "CSE203",
+        "courseName": "Database Management Systems",
+        "faculty": "Dr. Rahul Verma",
+        "credits": 4,
+        "semester": 3,
+        "department": "Computer Science",
+        "maxSeats": 60,
+        "availableSeats": 38,
+        "schedule": [
+            {
+                "day": "Tuesday",
+                "startTime": "11:00",
+                "endTime": "12:30"
+            },
+            {
+                "day": "Thursday",
+                "startTime": "11:00",
+                "endTime": "12:30"
+            }
+        ]
+    },
+    {
+        "courseCode": "AIML205",
+        "courseName": "Machine Learning Fundamentals",
+        "faculty": "Dr. Priya Nair",
+        "credits": 4,
+        "semester": 3,
+        "department": "AI & Machine Learning",
+        "maxSeats": 50,
+        "availableSeats": 25,
+        "schedule": [
+            {
+                "day": "Monday",
+                "startTime": "13:00",
+                "endTime": "14:30"
+            },
+            {
+                "day": "Friday",
+                "startTime": "13:00",
+                "endTime": "14:30"
+            }
+        ]
+    },
+    {
+        "courseCode": "CSE207",
+        "courseName": "Operating Systems",
+        "faculty": "Dr. Arjun Menon",
+        "credits": 3,
+        "semester": 3,
+        "department": "Computer Science",
+        "maxSeats": 60,
+        "availableSeats": 40,
+        "schedule": [
+            {
+                "day": "Wednesday",
+                "startTime": "09:00",
+                "endTime": "10:30"
+            },
+            {
+                "day": "Friday",
+                "startTime": "09:00",
+                "endTime": "10:30"
+            }
+        ]
+    },
+    {
+        "courseCode": "AIML209",
+        "courseName": "Python for AI",
+        "faculty": "Dr. Sneha Iyer",
+        "credits": 3,
+        "semester": 3,
+        "department": "AI & Machine Learning",
+        "maxSeats": 50,
+        "availableSeats": 31,
+        "schedule": [
+            {
+                "day": "Tuesday",
+                "startTime": "14:00",
+                "endTime": "15:30"
+            },
+            {
+                "day": "Thursday",
+                "startTime": "14:00",
+                "endTime": "15:30"
+            }
+        ]
+    },
+    {
+        "courseCode": "CSE211",
+        "courseName": "Computer Networks",
+        "faculty": "Dr. Vivek Rao",
+        "credits": 3,
+        "semester": 3,
+        "department": "Computer Science",
+        "maxSeats": 60,
+        "availableSeats": 45,
+        "schedule": [
+            {
+                "day": "Monday",
+                "startTime": "15:00",
+                "endTime": "16:30"
+            },
+            {
+                "day": "Thursday",
+                "startTime": "15:00",
+                "endTime": "16:30"
+            }
+        ]
+    }
+]
