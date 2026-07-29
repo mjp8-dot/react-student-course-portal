@@ -1,16 +1,101 @@
-# React + Vite
+# 🎓 Student Course Registration Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern student portal built with **React**, **Vite**, and **React Router** that simulates a university course registration system.
 
-Currently, two official plugins are available:
+From signing up and completing your student profile to registering courses, managing your timetable, and tracking academic progress, everything runs entirely on the frontend using LocalStorage.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🔐 Login & Signup
+- 👤 Student Profile Setup
+- 📚 Register & Drop Courses
+- 📖 My Courses Dashboard
+- 📅 Automatic Weekly Timetable
+- 📊 Student Dashboard
+- 🔔 Recent Activities & Upcoming Deadlines
+- ⚙️ Settings Page
+- 💎 Modern Glassmorphism UI
+- 💾 LocalStorage Persistence
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Built With
+
+- React
+- Vite
+- React Router
+- JavaScript (ES6+)
+- CSS3
+- React Icons
+- LocalStorage
+
+---
+
+## 📸 Preview
+
+> *Coming Soon...*
+
+(Add a few screenshots or a demo GIF here later.)
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/yourusername/student-course-registration-portal.git
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 📂 Project Highlights
+
+- Component-based architecture
+- Reusable Header & Sidebar
+- JSON-powered course catalog
+- Dynamic timetable generation
+- Protected routes
+- Responsive layouts
+- Glassmorphism design system
+
+---
+
+## 📌 Future Improvements
+
+- Backend integration
+- JWT Authentication
+- Faculty/Admin Portal
+- Attendance Management
+- Assignment Submission
+- Email Notifications
+- Dark Mode
+- Cloud Deployment
+
+---
+
+## 💡 Why I Built This
+
+This project started as a way to practice React beyond small tutorials. The goal was to build something that felt closer to a real application by combining routing, state management, reusable components, LocalStorage, and a clean UI into one complete project.
+
+---
+
+## ⭐ If you like the project
+
+Feel free to leave a ⭐ on the repository!
+
+I'm always open to feedback and suggestions.
